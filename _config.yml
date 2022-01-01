@@ -1,9 +1,9 @@
-title: Researcher
+title: Shixuan Gu 顾诗轩
 url: "https://ankitsultana.com"
 baseurl: "/researcher"
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
+ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
@@ -19,6 +19,6 @@ nav:
  - name: "About"
    link: "/researcher/"
  - name: "Resume"
-   link: "resume.pdf"
+   link: "CV_Shixuan_Gu.pdf"
  - name: "Contact"
    link: "contact"

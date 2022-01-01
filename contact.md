@@ -3,24 +3,13 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [shixuang@andrew.cmu.edu](mailto:shixuang@andrew.cmu.edu)
 
-* Phone: [+91-123123](tel:+91-123123)
-
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
+* Phone: [+1-4126946204](tel:+1-4126946204)
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Google+](https://scholar.google.com/citations?user=x5acEMEAAAAJ&hl=zh-CN)
+2. [LinkedIn](www.linkedin.com/in/shixuang)
